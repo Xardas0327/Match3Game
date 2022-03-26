@@ -1,2 +1,2 @@
 # Basic Match3 Game
-It use Uity 2020.3.26
+It uses Uity 2020.3.26
